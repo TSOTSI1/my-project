@@ -1,3 +1,11 @@
-# my-project
+# fresh project
 
-This project is created by deno/fresh, and for personal practice.
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
